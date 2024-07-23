@@ -170,3 +170,4 @@ if (window.location.pathname.endsWith("product_detail.html")) {
 }
 
 
+getShoeList()
